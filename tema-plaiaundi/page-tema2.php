@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Ejercicios JavaScript
+Template Name: Ejercicios JavaScript tema 1
 */
 
 get_header();
@@ -20,7 +20,6 @@ $titulos_ejercicios = array(
     '|| frente a ??',
     'Operador ternario: cuándo ayuda y cuándo no',
     'Diagnóstico de código',
-    'Pruebas',
 );
 ?>
 
