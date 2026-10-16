@@ -2,11 +2,17 @@
 
     <main>
 
-        <?php if (have_posts()) { ?>
+        <?php 
+        $args = array(
+            'post_type' => 'post',
+            'posts_per_page' => 10
+        );
+        $blog_query = new WP_Query($args);
 
-            <?php while (have_posts()) { ?>
-
-                <?php the_post(); ?>
+        if ($blog_query->have_posts()) { 
+            while ($blog_query->have_posts()) { 
+                $blog_query->the_post(); 
+        ?>
 
                 <article>
 
@@ -34,6 +40,8 @@
                 </article>
 
             <?php } ?>
+            
+            <?php wp_reset_postdata(); ?>
 
         <?php } else { ?>
 
