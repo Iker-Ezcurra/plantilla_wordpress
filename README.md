@@ -122,3 +122,7 @@ y WordPress estará disponible en `http://localhost:8082`.
 Enlace al documento de las respuestas del tema2:
 
 https://docs.google.com/document/d/1aYK-0gSjNmZrYVQciQ8ngQ093R1SXeQb9ao4a3fcB7o/edit?usp=sharing
+
+Enlace al documento del tema 3:
+
+https://docs.google.com/document/d/1gmfdEMzH9iUPs0eO61FpFMFhW5o1TOjm368wQPaj3sI/edit?usp=sharing
