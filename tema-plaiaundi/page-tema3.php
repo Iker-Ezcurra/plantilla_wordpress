@@ -10,6 +10,7 @@ $titulos_ejercicios = array(
     'Ejercicio02',
     'Ejercicio03',
     'Ejercicio04',
+    'Practica final'
 );
 ?>
 
