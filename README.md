@@ -126,3 +126,6 @@ https://docs.google.com/document/d/1aYK-0gSjNmZrYVQciQ8ngQ093R1SXeQb9ao4a3fcB7o/
 Enlace al documento del tema 3:
 
 https://docs.google.com/document/d/1gmfdEMzH9iUPs0eO61FpFMFhW5o1TOjm368wQPaj3sI/edit?usp=sharing
+
+Enlace al documento del tema 4:
+https://docs.google.com/document/d/1qnirvi350qw6Oa3Xc-tXC48h_v8mSqIextfj2XV-cXw/edit?usp=sharing

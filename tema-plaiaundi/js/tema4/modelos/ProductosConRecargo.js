@@ -1,8 +1,8 @@
 import {Producto} from "./Productos.js";
 
 export class ProductoConRecargo extends Producto {
-    constructor(id, nombre, precio) {
-        super(id, nombre, precio);
+    constructor(id, nombre, precio, stock) {
+        super(id, nombre, precio, stock);
     }
 
     calcularValorStock(){
