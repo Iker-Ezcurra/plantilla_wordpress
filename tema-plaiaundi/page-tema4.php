@@ -8,7 +8,8 @@ $titulos_ejercicios = array(
     'Ejercicio03',
     'Ejercicio04',
     'Ejercicio05',
-    'Ejercicio06'
+    'Ejercicio06',
+    'Ejercicio07'
 );
 ?>
 <main class="ejercicios">
