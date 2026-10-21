@@ -6,7 +6,8 @@ $titulos_ejercicios = array(
     'Ejercicio01',
     'Ejercicio02',
     'Ejercicio03',
-    'Ejercicio04'
+    'Ejercicio04',
+    'Ejercicio05'
 );
 ?>
 <main class="ejercicios">
