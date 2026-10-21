@@ -4,7 +4,8 @@ get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
     'Ejercicio01',
-    'Ejercicio02'
+    'Ejercicio02',
+    'Ejercicio03'
 );
 ?>
 <main class="ejercicios">
