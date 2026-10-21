@@ -3,12 +3,13 @@
 get_header();
 $ejercicio_seleccionado = tema_plaiaundi_obtener_ejercicio_seleccionado();
 $titulos_ejercicios = array(
-    'Ejercicio01'
+    'Ejercicio01',
+    'Ejercicio02'
 );
 ?>
-<main>
-  <h1>Tema 4 · Objetos, clases y módulos</h1>
-  <h2><?php the_title(); ?></h2>
+<main class="ejercicios">
+    <h2><?php the_title(); ?></h2>
+    <p>Tema 4 · Fundamentos y particularidades de JavaScript</p>
 
     <nav aria-label="Ejercicios de JavaScript">
         <ul class="ejercicios__lista">
@@ -26,6 +27,6 @@ $titulos_ejercicios = array(
             <?php } ?>
         </ul>
     </nav>
-  <p>Abre la consola y las herramientas de desarrollo.</p>
 </main>
+
 <?php get_footer(); ?>
